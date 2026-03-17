@@ -4,8 +4,8 @@
 
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
-**Nome do Aluno:** [Preencha seu nome aqui]
-**Matrícula:** [Preencha sua matrícula]
+**Nome do Aluno:** Matheus Ambrozim Marques
+**Matrícula:** 20261100015
 ---
 
 ## 🎯 Objetivo
@@ -46,10 +46,10 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+> Percebi que a angulação das curvas que eu devia fazer para desenvolver as estrelas se repetiam, então eu usei um loop para pintar elas. No caso da Lua, eu preenchi toda a lua em branco e depois movi o lapis e apaguei um cicrulo logo acima parar formar somente uma meia lua pintada.
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+**A) 
   
 **B)** Escreva aqui...
   
