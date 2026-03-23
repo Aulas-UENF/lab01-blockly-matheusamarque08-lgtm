@@ -49,10 +49,10 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 > Percebi que a angulação das curvas que eu devia fazer para desenvolver as estrelas se repetiam, então eu usei um loop para pintar elas. No caso da Lua, eu preenchi toda a lua em branco e depois movi o lapis e apaguei um cicrulo logo acima parar formar somente uma meia lua pintada.
 
 ## 4. Desafio:
-**A) 
+**A) O loop principal deve se repetir de acordo com os lados da figura, como lidamos com um hexágono, se repetirá 6 vezes e a angulação da tartaruga deve ser de 60 graus pra direita.
   
-**B)** Escreva aqui...
+**B)** ela irá precisar de um angulo de 90 graus pra esquerda.
   
-**C)** Escreva aqui...
+**C)** Na questão A pode ser utilizado o pensamento dos angulos internos da forma, sendo 720 graus. Na questão B eu dividi os 360 graus necessários por 4, formando a angulação de 90 graus
 
 ---
