@@ -1,9 +1,11 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tro2Z-6l)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23171140&assignment_repo_type=AssignmentRepo)
 # Lab 01: Lógica de Programação com Blockly 🐢
 
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
-**Nome do Aluno:** [Preencha seu nome aqui]
-**Matrícula:** [Preencha sua matrícula]
+**Nome do Aluno:** Matheus Ambrozim Marques
+**Matrícula:** 20261100015
 ---
 
 ## 🎯 Objetivo
@@ -44,13 +46,13 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+> Percebi que a angulação das curvas que eu devia fazer para desenvolver as estrelas se repetiam, então eu usei um loop para pintar elas. No caso da Lua, eu preenchi toda a lua em branco e depois movi o lapis e apaguei um cicrulo logo acima parar formar somente uma meia lua pintada.
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+**A) O loop principal deve se repetir de acordo com os lados da figura, como lidamos com um hexágono, se repetirá 6 vezes e a angulação da tartaruga deve ser de 60 graus pra direita.
   
-**B)** Escreva aqui...
+**B)** ela irá precisar de um angulo de 90 graus pra esquerda.
   
-**C)** Escreva aqui...
+**C)** Na questão A pode ser utilizado o pensamento dos angulos internos da forma, sendo 720 graus. Na questão B eu dividi os 360 graus necessários por 4, formando a angulação de 90 graus
 
 ---
